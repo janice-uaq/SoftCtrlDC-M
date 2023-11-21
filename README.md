@@ -13,10 +13,11 @@ Pinout reference:
 ![image](https://github.com/janice-uaq/SoftCtrlDC-M/assets/150994187/78cbd1bc-4fb1-48da-ace6-e9bc1e5e2c11)
 This image is cortesy of ATMega. Please refer to corresponding pinout configuration on case-by-case need.
 
-It contains functions for processing the current, the enconder, the PWM calc for action control, stamping relevant information.
+It contains functions for processing the current, the enconder, the PWM calc for action control, stamping information.
 The user inmputs the reference speed in the console as desired.
 
 It works better if it is used with ARduino IDE.
+Code is available in source (src) folder.
 
 Notes:
 1. This code is able to be copy-paste'd for Arduino interface.
