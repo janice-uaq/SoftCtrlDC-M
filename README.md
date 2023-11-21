@@ -17,10 +17,14 @@ It contains functions for processing the current, the enconder, the PWM calc for
 The user inmputs the reference speed in the console as desired.
 
 It works better if it is used with ARduino IDE.
-Code is available in source (src) folder.
 
 Notes:
 1. This code is able to be copy-paste'd for Arduino interface.
 2. This code can be used directly in C code editors for AVRs.
+
+# Code
+Code is available in source (src) folder.
+
+
 
 
